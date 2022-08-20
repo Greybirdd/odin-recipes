@@ -1,17 +1,19 @@
-.title-one {
+h1, li {
 
-    background-color: orange;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 
-p {
+li {
 
     font-size: 25px;
+    background-color: orange;
 
 }
 
 h1 {
 
     background-color: green;
+    font-size: 50px;
 
 }
